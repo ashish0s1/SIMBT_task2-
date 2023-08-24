@@ -1,2 +1,2 @@
-# SIMBT_task2-
+# ToDo web app
 Created a Todo App website
